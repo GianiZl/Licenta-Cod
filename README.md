@@ -14,3 +14,8 @@ O trimite la Roboflow pentru detecție.
 Pregătește datele.
 
 O trimite la Ollama pentru interpretare și predicție.
+
+Am adaugat si un fisier de test app.py
+
+Am reusit sa obtin o precizie de aproape 80% in roboflow. Prin intermediul acestuia, cand incarc o imagine in acel streamlit, reusesc sa adnotez aproape toate elementele din grafice. 
+Agentul inca nu functioneaza asa cum mi-as dori.
